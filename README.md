@@ -5,8 +5,8 @@
   ![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
   
   <!-- Hareketli GitHub İstatistikleri -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=(https://github.com/emirhandegirmen)&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/emirhandegirmen)&layout=compact&theme=radical" height="160" />
   
   <!-- Hareketli Teknoloji İkonları -->
   <div style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
