@@ -1,7 +1,7 @@
 <!-- README.md -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=45D1F7&center=true&vCenter=true&width=500&lines=Merhaba+👋;Ben+Frontend+Geliştiriciyim;React%2C+Next.js+ve+TypeScript;Open+Source+Severim🚀"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=45D1F7&center=true&vCenter=true&width=600&lines=Emirhan+De%C4%9Firmen;Frontend+Geli%C5%9Ftireciyim;React%2C+Next.js+ve+TypeScript;Open+Source+Severim🚀"
     alt="Animasyonlu Yazı"
   />
 
