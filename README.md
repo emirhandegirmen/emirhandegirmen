@@ -1,13 +1,12 @@
 <!-- README.md -->
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=45D1F7&center=true&vCenter=true&width=600&lines=Emirhan+De%C4%9Firmen;Frontend+Geli%C5%9Ftireciyim;React%2C+Next.js+ve+TypeScript;Open+Source+Severim🚀"
-    alt="Animasyonlu Yazı"
-  />
 
+  <!-- Kayan Yazı (Typing SVG) -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Emirhan+De%C4%9Firmen;Web+Developer)](https://git.io/typing-svg)
+  
   ![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
   
-  <!-- Hareketli GitHub İstatistikleri -->
+  <!-- GitHub İstatistikleri -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=emirhandegirmen&show_icons=true&theme=radical"
     alt="GitHub Stats"
@@ -19,14 +18,14 @@
     height="160"
   />
   
-  <!-- Hareketli Teknoloji İkonları -->
+  <!-- Teknoloji İkonları -->
   <div style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </div>
   
-  <!-- Wave Animasyonu -->
+  <!-- GitHub Contribution Snake -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
